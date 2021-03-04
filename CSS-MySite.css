@@ -1,0 +1,146 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+
+img:hover{
+  
+  cursor:pointer;
+}
+.my-intro{
+    line-height: 2;
+}
+hr{
+    width:4%;
+    margin:auto;
+    background-color: white;
+    border-style:none;
+    border-top-style:dotted;
+    border-width: 8px;
+    color: #cff5f5;
+}
+
+.top_content{
+    background-color: #c1ebe9 ;
+    width: 100%;
+    position: relative;
+    padding-top: 20px;
+   
+    
+}
+
+h1{
+    font-size: 3.75rem;
+    margin: 50px auto 0px auto;
+    position:relative;
+    top:20px;
+    font-family:'Cinzel', serif;
+    color: #11698e;
+}
+h2{
+    font-size: 2.5rem;
+    color: #11698e;
+}
+.my-skill{
+    color:#66BFBF;
+}
+h3{
+    color:#11698e;
+}
+.lower_content{
+    background-color: blue;
+    height: 200px;
+    width:200px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:20px;
+
+}
+.profile-pic{
+    height: 200px;
+    width: 150px;
+}
+.middle-container{
+    widows: 50%;
+    margin: 100px auto 100px auto;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 130px auto;
+text-align:left;
+line-height: 2;
+
+}
+.html-img{
+    width: 25%;
+    float: left;
+}
+.css-img{
+    width: 25%;
+    float: right;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 150px;
+    padding-top: 30px;
+    line-height: 3;
+}
+.footer-link{
+    margin-right: 30px;
+    color: #11999E;
+    text-decoration: none;
+
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.copyright{
+    color: #EAF6F6;
+}
+
+.BUTTON_JKG {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 10px;
+    background-color: #66BFBF;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 1px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+ 
+.BUTTON_JKG:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0,#3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom,#1E62D0,#3D94F6);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
